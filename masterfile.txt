@@ -1,0 +1,5 @@
+This added when another branch is currently active.
+
+This is from master.
+
+We will see how to deal with conflict.
